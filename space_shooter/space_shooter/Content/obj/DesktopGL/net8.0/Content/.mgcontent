@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/background.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/bullet.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/enemies/drone.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/enemies/mine.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/enemies/tripod.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/menu/exit.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/menu/highscore.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/menu/menu.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/menu/start.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/powerups/coin.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/ship.png</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/spritefont.spritefont</File>
+    <File>G:/Min enhet/prr/source/repos/space_shooter/space_shooter/Content/stone.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
